@@ -41,7 +41,7 @@ public class SportsFragment extends Fragment {
 
     List<HeadlineModel> headlineModelList;
 
-    private static final String URL="http://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=cbd46bd6a4f54fe69d0cb261dbe1a878";
+    private static final String URL="http://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=";
 
     public SportsFragment() {
         // Required empty public constructor
