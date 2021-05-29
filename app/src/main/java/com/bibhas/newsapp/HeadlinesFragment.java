@@ -43,7 +43,7 @@ public class HeadlinesFragment extends Fragment {
 
     List<HeadlineModel> headlineModelList;
 
-    private static final String URL="http://newsapi.org/v2/top-headlines?country=in&apiKey=cbd46bd6a4f54fe69d0cb261dbe1a878";
+    private static final String URL="http://newsapi.org/v2/top-headlines?country=in&apiKey=";
 
     public HeadlinesFragment() {
         // Required empty public constructor
