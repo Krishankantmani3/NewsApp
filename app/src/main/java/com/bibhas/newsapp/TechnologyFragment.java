@@ -39,7 +39,7 @@ public class TechnologyFragment extends Fragment {
 
     List<HeadlineModel> headlineModelList;
 
-    private static final String URL="http://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=cbd46bd6a4f54fe69d0cb261dbe1a878\n";
+    private static final String URL="http://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=";
 
     public TechnologyFragment() {
         // Required empty public constructor
