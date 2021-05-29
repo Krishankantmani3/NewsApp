@@ -36,7 +36,7 @@ public class EntertainmentFragment extends Fragment {
     MyAdapter myAdapter;
     private ProgressDialog progressDialog;
     List<HeadlineModel> headlineModelList;
-    private static final String URL="http://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=cbd46bd6a4f54fe69d0cb261dbe1a878";
+    private static final String URL="http://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=";
 
     public EntertainmentFragment() {
         // Required empty public constructor
